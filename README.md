@@ -1,15 +1,16 @@
 # CUI
----------------------------------
 
 - Name : CUI (Command User Interface)
 
 - Description : " Command User Interface for self use " 
 
-- TecStack : { BatchScript | CommandScript | VirtualBasicScript }
+- TecStack : { BatchScript | VBScript }
 
 - Developer { Mayank }
 
 - CopyRight { Mayank }
+
+- Download : https://github.com/MayankDevil/CUI/archive/refs/heads/main.zip
 
 ---
 
